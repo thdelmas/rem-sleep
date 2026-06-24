@@ -48,7 +48,7 @@ NREM (consolidate, prune) then REM (integrate, regulate). In order:
 
 3. **Synaptic downscaling — prune.** Sweep the existing store: merge duplicates, update or delete stale (dates passed, plans abandoned), correct contradicted memories (new truth wins). A lean store recalls better — but never delete a claim you haven't checked against the current world.
 
-4. **REM — integrate (learning).** Cross-link related memories with `[[slug]]` (dangling links are fine). Name latent patterns no single episode held; write durable ones as their own memory. Then **dream lightly** — surface one or two novel recombinations as *suggestions*, don't commit them.
+4. **REM — integrate (learning).** Cross-link related memories with `[[slug]]` (dangling links are fine). Name latent patterns no single episode held; write durable ones as their own memory — but check the store doesn't already hold the pattern first, and link to it instead of duplicating if it does (re-surfacing a settled conclusion is churn). Then **dream lightly** — surface one or two novel recombinations as *suggestions*, don't commit them.
 
 5. **REM — regulate emotion.** For each correction / failure / tension: keep the lesson (store as `feedback`: rule + why + how to apply); release the charge (don't carry defensiveness or over-correction forward); recalibrate stance (too cautious? too eager? over-producing?). Test: tomorrow act on the lesson without re-living the moment.
 

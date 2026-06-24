@@ -79,7 +79,7 @@ A lean store recalls better than a complete one. Prune without sentiment — but
 The associative pass. This is where learning beyond the literal happens.
 
 - **Cross-link** — add `[[slug]]` links between related memories. Memory is a graph, not a list. A link to a slug that doesn't exist yet is fine — it marks something worth writing later.
-- **Surface latent patterns** — name what no single episode contained: "these three projects all stall at the same gate," "this preference and that correction are the same underlying value." Write the pattern as its own memory if it's durable.
+- **Surface latent patterns** — name what no single episode contained: "these three projects all stall at the same gate," "this preference and that correction are the same underlying value." Write the pattern as its own memory if it's durable — but first check the store doesn't already hold it. A pattern that restates an existing memory isn't a new insight; link to that memory instead of writing a duplicate. Re-surfacing a settled conclusion is churn.
 - **Dream, lightly** — generate one or two genuinely novel recombinations: a connection across distant memories worth surfacing. Keep it low-stakes — surface it in the journal as a *suggestion*, don't act on it or commit it as fact.
 
 ### 5. REM — emotional regulation (amygdala recalibration)
